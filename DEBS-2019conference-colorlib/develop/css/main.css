@@ -2957,7 +2957,8 @@ h6 {
 }
 
 .generic-banner {
-    background: url(../img/header-bg.jpg) center;
+    background-color: #8ab92d;
+    /*background: url(../img/header-bg.jpg) center;*/
     text-align: center
 }
 
