@@ -3052,3 +3052,6 @@ pre code {
 .justifyAlignment{
     text-align:justify;
 }
+.table td{
+    padding: 8px; /*padding is changed from 12 px to 80px. just remove this class to set to default */
+}
