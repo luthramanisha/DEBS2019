@@ -1,0 +1,1001 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-CALSTART:20190624T063000Z
+X-CALEND:20190628T131500Z
+X-WR-RELCALID:{00000018-4175-186B-0E03-7D5675A7D2DB}
+X-WR-CALNAME:DEBS 2019 Planung
+BEGIN:VTIMEZONE
+TZID:W. Europe Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084859Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/boris-koldehofe?hcei
+	d=Ym9yaXMua29sZGVob2ZlQGtvbS5lLXRlY2huaWsudHUtZGFybXN0YWR0LmRl.1m3c6vm98ai
+	fgrl99kbnjkgean&hs=121\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190624T133000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190624T121500
+LAST-MODIFIED:20190419T084859Z
+SEQUENCE:0
+SUMMARY:Lunch Break
+TRANSP:OPAQUE
+UID:1m3c6vm98aifgrl99kbnjkgean@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084859Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/boris-koldehofe?hcei
+	d=Ym9yaXMua29sZGVob2ZlQGtvbS5lLXRlY2huaWsudHUtZGFybXN0YWR0LmRl.1irg39sktva
+	mcji8lg1jksevks&hs=121\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190624T104500
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190624T101500
+LAST-MODIFIED:20190419T084859Z
+SEQUENCE:0
+SUMMARY:Coffee Break
+TRANSP:OPAQUE
+UID:1irg39sktvamcji8lg1jksevks@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084859Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/boris-koldehofe?hcei
+	d=a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1
+	bThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.657njvgne3a9tml8vrfp2qei6r&hs=121\n
+	-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190625T104500
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190625T101500
+LAST-MODIFIED:20190419T084859Z
+SEQUENCE:0
+SUMMARY:Coffee Break
+TRANSP:OPAQUE
+UID:657njvgne3a9tml8vrfp2qei6r@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084859Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/boris-koldehofe?hcei
+	d=a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1
+	bThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.6ps3ih0i9mbdkt0emfhunsq7l1&hs=121\n
+	-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190625T121500
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190625T104500
+LAST-MODIFIED:20190419T091305Z
+SEQUENCE:1
+SUMMARY:DEBS Tutorial Session A
+TRANSP:OPAQUE
+UID:6ps3ih0i9mbdkt0emfhunsq7l1@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084859Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/debs-workshop?hceid=
+	a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1bT
+	hAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.1oqouqi9u36trnm16ea2p47s93&hs=121\n-:
+	:~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190625T151500
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190625T133000
+LAST-MODIFIED:20190419T091341Z
+SEQUENCE:0
+SUMMARY:DEBS Tutorial Session C
+TRANSP:OPAQUE
+UID:1oqouqi9u36trnm16ea2p47s93@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084859Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/boris-koldehofe?hcei
+	d=a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1
+	bThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.3eq5hb312pauv8ie75v1kaih29&hs=121\n
+	-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190624T154500
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190624T151500
+LAST-MODIFIED:20190419T084859Z
+SEQUENCE:0
+SUMMARY:Coffee Break
+TRANSP:OPAQUE
+UID:3eq5hb312pauv8ie75v1kaih29@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084859Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/boris-koldehofe?hcei
+	d=a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1
+	bThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.2sjm6p1jit6d9nmaugmqjpfg8h&hs=121\n
+	-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190625T154500
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190625T151500
+LAST-MODIFIED:20190419T084859Z
+SEQUENCE:2
+SUMMARY:Coffee Break
+TRANSP:OPAQUE
+UID:2sjm6p1jit6d9nmaugmqjpfg8h@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084859Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/boris-koldehofe?hcei
+	d=Ym9yaXMua29sZGVob2ZlQGtvbS5lLXRlY2huaWsudHUtZGFybXN0YWR0LmRl.3sk01lltckg
+	k3ts3mlq1nmv573&hs=121\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190625T173000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190625T154500
+LAST-MODIFIED:20190419T091401Z
+SEQUENCE:3
+SUMMARY:DEBS Tutorial Session C
+TRANSP:OPAQUE
+UID:3sk01lltckgk3ts3mlq1nmv573@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084859Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/boris-koldehofe?hcei
+	d=a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1
+	bThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.3ssufcat2ql896krnc2ibm0c5d&hs=121\n
+	-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190625T133000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190625T121500
+LAST-MODIFIED:20190419T084859Z
+SEQUENCE:0
+SUMMARY:Lunch Break
+TRANSP:OPAQUE
+UID:3ssufcat2ql896krnc2ibm0c5d@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084859Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/debs-conference?hcei
+	d=a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1
+	bThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.5lkc4ok748fs02j4dlf8ibhtpv&hs=121\n
+	-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190627T233000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190627T190000
+LAST-MODIFIED:20190419T091136Z
+SEQUENCE:0
+SUMMARY:DEBS Conference Dinner
+TRANSP:OPAQUE
+UID:5lkc4ok748fs02j4dlf8ibhtpv@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084859Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/boris-koldehofe?hcei
+	d=a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1
+	bThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.6svngs7i60sl54mp15t8q86dr4&hs=121\n
+	-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190626T104500
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190626T101500
+LAST-MODIFIED:20190419T084859Z
+SEQUENCE:0
+SUMMARY:Coffee Break
+TRANSP:OPAQUE
+UID:6svngs7i60sl54mp15t8q86dr4@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084859Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/boris-koldehofe?hcei
+	d=a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1
+	bThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.36k055re7rmsd40cbqm85ekmp1&hs=121\n
+	-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190625T121500
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190625T104500
+LAST-MODIFIED:20190419T091257Z
+SEQUENCE:0
+SUMMARY:DEBS Tutorial Session B
+TRANSP:OPAQUE
+UID:36k055re7rmsd40cbqm85ekmp1@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/debs-workshop?hceid=
+	a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1bT
+	hAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.3b91nv5rg6mgbe1q3gh5vln0dv&hs=121\n-:
+	:~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190625T151500
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190625T133000
+LAST-MODIFIED:20190419T091349Z
+SEQUENCE:0
+SUMMARY:DEBS Tutorial Session D
+TRANSP:OPAQUE
+UID:3b91nv5rg6mgbe1q3gh5vln0dv@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/boris-koldehofe?hcei
+	d=a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1
+	bThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.2hr5kamcvlu3qo9kcc0cop0all&hs=121\n
+	-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190625T173000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190625T154500
+LAST-MODIFIED:20190419T091408Z
+SEQUENCE:0
+SUMMARY:DEBS Tutorial Session D
+TRANSP:OPAQUE
+UID:2hr5kamcvlu3qo9kcc0cop0all@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DTEND;TZID="W. Europe Standard Time":20190626T101500
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190626T091500
+LAST-MODIFIED:20190419T084900Z
+SEQUENCE:1
+SUMMARY:Keynote: Gustavo Alonso
+TRANSP:OPAQUE
+UID:2fpd1ugu5r3tjtn9ub8aj39upt@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DTEND;TZID="W. Europe Standard Time":20190626T091500
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190626T090000
+LAST-MODIFIED:20190419T084900Z
+SEQUENCE:0
+SUMMARY:Welcome DEBS
+TRANSP:OPAQUE
+UID:6eq1erf17envfsuujt3lp9b7b0@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/boris-koldehofe?hcei
+	d=a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1
+	bThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.75hfr9uecimvulp502sps9ngpt&hs=121\n
+	-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190627T103000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190627T100000
+LAST-MODIFIED:20190419T084900Z
+SEQUENCE:3
+SUMMARY:Coffee Break
+TRANSP:OPAQUE
+UID:75hfr9uecimvulp502sps9ngpt@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/boris-koldehofe?hcei
+	d=Ym9yaXMua29sZGVob2ZlQGtvbS5lLXRlY2huaWsudHUtZGFybXN0YWR0LmRl.1ajjq3l4cn5
+	s9qqarugnnhbvd5&hs=121\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190626T210000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190626T180000
+LAST-MODIFIED:20190419T091048Z
+SEQUENCE:5
+SUMMARY:Poster & Demo Reception
+TRANSP:OPAQUE
+UID:1ajjq3l4cn5s9qqarugnnhbvd5@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DTEND;TZID="W. Europe Standard Time":20190626T180000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190626T173000
+LAST-MODIFIED:20190419T084900Z
+SEQUENCE:1
+SUMMARY:One Minute Madness
+TRANSP:OPAQUE
+UID:4jkam5nmmm6n0p9i4scju8q2gb@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/boris-koldehofe?hcei
+	d=a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1
+	bThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.6odnrvq0p1u8pssmhhvj8mhdhq&hs=121\n
+	-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190626T130000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190626T120000
+LAST-MODIFIED:20190419T084900Z
+SEQUENCE:2
+SUMMARY:Lunch Break
+TRANSP:OPAQUE
+UID:6odnrvq0p1u8pssmhhvj8mhdhq@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DTEND;TZID="W. Europe Standard Time":20190626T140000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190626T130000
+LAST-MODIFIED:20190419T084900Z
+SEQUENCE:2
+SUMMARY:Keynote: Wolfgang Reisig
+TRANSP:OPAQUE
+UID:675fe21hg50l5ns53se0km6gk3@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DTEND;TZID="W. Europe Standard Time":20190627T163000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190627T153000
+LAST-MODIFIED:20190419T084900Z
+SEQUENCE:2
+SUMMARY:DEBS Grand Challenge
+TRANSP:OPAQUE
+UID:24cegu05aimknddvd8378st7h9@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/debs-workshop?hceid=
+	a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1bT
+	hAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.439gnu7vef0v3d1h789gc1uud8&hs=121\n-:
+	:~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190627T171500
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190627T163000
+LAST-MODIFIED:20190419T084900Z
+SEQUENCE:3
+SUMMARY:Business Meeting
+TRANSP:OPAQUE
+UID:439gnu7vef0v3d1h789gc1uud8@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/event?hceid=a29tLmUt
+	dGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1bThAZ3JvdX
+	AuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.52gl9vnclbh72848155o1dldis&hs=121\n-::~:~::~:
+	~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~
+	::-
+DTEND;TZID="W. Europe Standard Time":20190627T190000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190627T171500
+LAST-MODIFIED:20190419T091140Z
+SEQUENCE:1
+SUMMARY:Social Event
+TRANSP:OPAQUE
+UID:52gl9vnclbh72848155o1dldis@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/boris-koldehofe?hcei
+	d=a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1
+	bThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.13e99hrasvohds27abkd3rs34b&hs=121\n
+	-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190628T103000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190628T100000
+LAST-MODIFIED:20190419T084900Z
+SEQUENCE:1
+SUMMARY:Coffee Break
+TRANSP:OPAQUE
+UID:13e99hrasvohds27abkd3rs34b@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/boris-koldehofe?hcei
+	d=a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1
+	bThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.6n7fhoa8depo57rdie9i1i5je1&hs=121\n
+	-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190628T130000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190628T120000
+LAST-MODIFIED:20190419T084900Z
+SEQUENCE:1
+SUMMARY:Lunch Break
+TRANSP:OPAQUE
+UID:6n7fhoa8depo57rdie9i1i5je1@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DTEND;TZID="W. Europe Standard Time":20190628T150000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190628T140000
+LAST-MODIFIED:20190419T084900Z
+SEQUENCE:1
+SUMMARY:10 Years Time Award
+TRANSP:OPAQUE
+UID:2nfmvmt2nvdpe77mdn9dlo4qkn@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/boris-koldehofe?hcei
+	d=a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1
+	bThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.5jq5i0phg0og1vb4tq3k504bs1&hs=121\n
+	-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190626T154500
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190626T151500
+LAST-MODIFIED:20190419T084900Z
+SEQUENCE:3
+SUMMARY:Coffee Break
+TRANSP:OPAQUE
+UID:5jq5i0phg0og1vb4tq3k504bs1@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/research-track?hceid
+	=a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1b
+	ThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.5qiml6b6b4o9c4sb33qailkocs&hs=121\n-
+	::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190627T120000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190627T103000
+LAST-MODIFIED:20190419T091457Z
+SEQUENCE:1
+SUMMARY:Research Track Slot 4
+TRANSP:OPAQUE
+UID:5qiml6b6b4o9c4sb33qailkocs@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/boris-koldehofe?hcei
+	d=a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1
+	bThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.3jsl08spjpikhate5qatohhf45&hs=121\n
+	-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190627T130000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190627T120000
+LAST-MODIFIED:20190419T084900Z
+SEQUENCE:1
+SUMMARY:Lunch Break
+TRANSP:OPAQUE
+UID:3jsl08spjpikhate5qatohhf45@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DTEND;TZID="W. Europe Standard Time":20190627T150000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190627T140000
+LAST-MODIFIED:20190419T090848Z
+SEQUENCE:2
+SUMMARY:Industry Track
+TRANSP:OPAQUE
+UID:101phshs961r9vmjd60is4ijkv@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/boris-koldehofe?hcei
+	d=a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1
+	bThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.42a06360qdvj98e01f369k4gvl&hs=121\n
+	-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190627T153000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190627T150000
+LAST-MODIFIED:20190419T084900Z
+SEQUENCE:3
+SUMMARY:Coffee Break
+TRANSP:OPAQUE
+UID:42a06360qdvj98e01f369k4gvl@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/research-track?hceid
+	=a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1b
+	ThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.2dg5lucaerea0rri2t64f87h4j&hs=121\n-
+	::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190626T120000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190626T104500
+LAST-MODIFIED:20190419T090954Z
+SEQUENCE:2
+SUMMARY:Research Track Slot 1
+TRANSP:OPAQUE
+UID:2dg5lucaerea0rri2t64f87h4j@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/debs-workshop?hceid=
+	a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1bT
+	hAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.1h2853sktbh33rihcjas35nbqd&hs=121\n-:
+	:~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190626T151500
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190626T140000
+LAST-MODIFIED:20190419T091024Z
+SEQUENCE:3
+SUMMARY:Research Track Slot 2
+TRANSP:OPAQUE
+UID:1h2853sktbh33rihcjas35nbqd@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DTEND;TZID="W. Europe Standard Time":20190628T151500
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190628T150000
+LAST-MODIFIED:20190419T084900Z
+SEQUENCE:0
+SUMMARY:End of Conference
+TRANSP:OPAQUE
+UID:6qrjvv8h3cnnoc1526q23kssop@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/research-track?hceid
+	=a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1b
+	ThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.6bcsd5eqhqc3to0rm86e6kmp9a&hs=121\n-
+	::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190628T120000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190628T103000
+LAST-MODIFIED:20190419T092158Z
+SEQUENCE:2
+SUMMARY:Research Slot 6
+TRANSP:OPAQUE
+UID:6bcsd5eqhqc3to0rm86e6kmp9a@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/debs-workshop?hceid=
+	a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1bT
+	hAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.6mm8gknfggs172v0mn4pc5sd9d&hs=121\n-:
+	:~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190626T173000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190626T164500
+LAST-MODIFIED:20190419T091439Z
+SEQUENCE:4
+SUMMARY:Research Track Slot 3
+TRANSP:OPAQUE
+UID:6mm8gknfggs172v0mn4pc5sd9d@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DTEND;TZID="W. Europe Standard Time":20190628T140000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190628T130000
+LAST-MODIFIED:20190419T084900Z
+SEQUENCE:2
+SUMMARY:Keynote: Donald Kosman (Microsoft Research)
+TRANSP:OPAQUE
+UID:2lojffg6im3v9rulbqke8nq5i8@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/boris-koldehofe?hcei
+	d=Ym9yaXMua29sZGVob2ZlQGtvbS5lLXRlY2huaWsudHUtZGFybXN0YWR0LmRl.7m2cs26gh4q
+	g5pnmedt83iu0v6&hs=121\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190624T121500
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190624T104500
+LAST-MODIFIED:20190419T084900Z
+LOCATION:Aurum\, Damstadtium
+SEQUENCE:0
+SUMMARY:DEBS Summerschool
+TRANSP:OPAQUE
+UID:7m2cs26gh4qg5pnmedt83iu0v6@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/debs-workshop?hceid=
+	a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1bT
+	hAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.1k9n661crq7its64qeplio40n4&hs=121\n-:
+	:~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190624T151500
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190624T133000
+LAST-MODIFIED:20190419T084900Z
+LOCATION:Aurum\, Darmstadtium
+SEQUENCE:1
+SUMMARY:DEBS Summerschool
+TRANSP:OPAQUE
+UID:1k9n661crq7its64qeplio40n4@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/boris-koldehofe?hcei
+	d=a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1
+	bThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.3mu09f3p4h2c7n42d3g8u9q3qs&hs=121\n
+	-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190624T173000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190624T154500
+LAST-MODIFIED:20190419T084900Z
+LOCATION:Aurum\, Darmstadtium
+SEQUENCE:0
+SUMMARY:DEBS Doctoral Symposium
+TRANSP:OPAQUE
+UID:3mu09f3p4h2c7n42d3g8u9q3qs@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/ph-d-workshop?hceid=
+	a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1bT
+	hAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.72vkbb720cl9rabudgeq1bjb8b&hs=121\n-:
+	:~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190625T101500
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190625T090000
+LAST-MODIFIED:20190419T084900Z
+SEQUENCE:1
+SUMMARY:DEBS Tutorial Session A
+TRANSP:OPAQUE
+UID:72vkbb720cl9rabudgeq1bjb8b@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/ph-d-workshop?hceid=
+	a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1bT
+	hAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.74ffbqbobkkttf251tjsocsupl&hs=121\n-:
+	:~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190625T101500
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190625T090000
+LAST-MODIFIED:20190419T084900Z
+SEQUENCE:0
+SUMMARY:DEBS Tutorial Session B
+TRANSP:OPAQUE
+UID:74ffbqbobkkttf251tjsocsupl@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DTEND;TZID="W. Europe Standard Time":20190626T164500
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190626T154500
+LAST-MODIFIED:20190419T084900Z
+SEQUENCE:1
+SUMMARY:Industry Talk Olivier Tardieux (IBM)
+TRANSP:OPAQUE
+UID:0fubmihsbcj8gqopklqrgqtrk8@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DTEND;TZID="W. Europe Standard Time":20190626T090000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190626T083000
+LAST-MODIFIED:20190419T084900Z
+SEQUENCE:0
+SUMMARY:Registration
+TRANSP:OPAQUE
+UID:7ibho9dvidirhb9jkooilvqef6@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DTEND;TZID="W. Europe Standard Time":20190627T090000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190627T083000
+LAST-MODIFIED:20190419T084900Z
+SEQUENCE:0
+SUMMARY:Registration
+TRANSP:OPAQUE
+UID:1omqclf68nc3n7v8di8bvg16c6@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DTEND;TZID="W. Europe Standard Time":20190628T090000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190628T083000
+LAST-MODIFIED:20190419T084900Z
+SEQUENCE:0
+SUMMARY:Registration
+TRANSP:OPAQUE
+UID:1934463v45evte61406psjdide@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DTEND;TZID="W. Europe Standard Time":20190625T090000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190625T083000
+LAST-MODIFIED:20190419T084900Z
+SEQUENCE:0
+SUMMARY:Registration
+TRANSP:OPAQUE
+UID:5g01ebpg0oeln7c4tj8acpcheg@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DTEND;TZID="W. Europe Standard Time":20190624T090000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190624T083000
+LAST-MODIFIED:20190419T084900Z
+SEQUENCE:0
+SUMMARY:Registration
+TRANSP:OPAQUE
+UID:4sgrbeb82vco660ue1ms65rp9f@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DTEND;TZID="W. Europe Standard Time":20190627T100000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190627T090000
+LAST-MODIFIED:20190419T084900Z
+SEQUENCE:0
+SUMMARY:Keynote - Tyler Akidau (Google)
+TRANSP:OPAQUE
+UID:29c2icl7hnir8jcionnrjh5dfe@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DESCRIPTION:Tische: 50 Gäste\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+	~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this sec
+	tion of the description.\n\nThis event has a Google Hangouts video call.\n
+	Join: https://hangouts.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de
+	/ph-d-workshop?hceid=a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzN
+	G40Z3RlNW1rbzQ0cjl1bThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.1lc3j83q0tv0ghqm
+	iu7m3nnbae&hs=121\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190624T101500
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190624T090000
+LAST-MODIFIED:20190419T084900Z
+LOCATION:Aurum\, Darmstadtium
+SEQUENCE:0
+SUMMARY:DEBS Summerschool
+TRANSP:OPAQUE
+UID:1lc3j83q0tv0ghqmiu7m3nnbae@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+	on.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangout
+	s.google.com/hangouts/_/kom.e-technik.tu-darmstadt.de/research-track?hceid
+	=a29tLmUtdGVjaG5pay50dS1kYXJtc3RhZHQuZGVfMHByYWZzaDAzNG40Z3RlNW1rbzQ0cjl1b
+	ThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.5fdiaoqpi2i0glcnfr76ltpgib&hs=121\n-
+	::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+	:~:~::~:~::-
+DTEND;TZID="W. Europe Standard Time":20190628T100000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190628T090000
+LAST-MODIFIED:20190419T091553Z
+SEQUENCE:0
+SUMMARY:Research Slot 5
+TRANSP:OPAQUE
+UID:5fdiaoqpi2i0glcnfr76ltpgib@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190419T084900Z
+DTEND;TZID="W. Europe Standard Time":20190627T140000
+DTSTAMP:20190419T084729Z
+DTSTART;TZID="W. Europe Standard Time":20190627T130000
+LAST-MODIFIED:20190419T084900Z
+SEQUENCE:2
+SUMMARY:Keynote: Karthik Ramasamy (Streamlio)
+TRANSP:OPAQUE
+UID:3909hpivk7f8gr4nt3t7fqn797@google.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+END:VCALENDAR
+
